@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
 <h3 align="center">Full Stack Developer and Competitive Programmer</h3>
 
-- 🔭 I’m currently working on **Foodify - Food Delivery Website**
+- 🔭 I’m currently working on **CodeTogether - Code Sync Website**
 
 - 🌱 I’m currently learning **ReactJS**
 
