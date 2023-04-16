@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SnapScape - Social media website**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **BlockChain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RishabhSharma96](https://github.com/RishabhSharma96)
 
