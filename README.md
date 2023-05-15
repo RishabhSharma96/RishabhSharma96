@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
 <h3 align="center">Full Stack Developer and Competitive Programmer</h3>
 
-- 🔭 I’m currently working on **SnapScape - Social media website**
+- 🔭 I’m currently working on **SocioScape - Social media website**
 
 - 🌱 I’m currently learning **BlockChain**
 
