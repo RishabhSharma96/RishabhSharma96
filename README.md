@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SocioScape - Social media website**
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning **BlockChain and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RishabhSharma96](https://github.com/RishabhSharma96)
 
