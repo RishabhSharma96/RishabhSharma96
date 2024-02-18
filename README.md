@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack E-commerce Platform**
 
-- 🌱 I’m currently learning **BlockChain and Next.js**
+- 🌱 I’m currently learning **BlockChain and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RishabhSharma96](https://github.com/RishabhSharma96)
 
